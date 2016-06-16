@@ -1,2 +1,2 @@
-# Simple-scripts-python-
-Initial scripts edited according to needs
+# Simple-scripts-python
+Intresting python scripts
